@@ -7,6 +7,6 @@
 <title>Hello jsp</title>
 </head>
 <body>
-Hello jsp
+Hi${data}
 </body>
 </html>
